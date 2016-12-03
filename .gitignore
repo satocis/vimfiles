@@ -1,0 +1,17 @@
+# ignore all of root
+/*
+
+# add ignore file
+!.gitignore
+
+# add root files
+!gvimrc
+!vimrc
+!with_dein.vim
+
+# add root directories
+!/autoload/
+!/colors/
+!/ftdetect/
+!/ftplugin/
+!/keymap/
